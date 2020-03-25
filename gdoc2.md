@@ -1,6 +1,6 @@
-#Chapter 1: Non-ICU Management, Triage, Transfers
+# Chapter 1: Non-ICU Management, Triage, Transfers
 
-##Clinical Course of COVID-19 
+## Clinical Course of COVID-19 
 
   1. **Clinical presentation:** non-specific, flu-like illness
     1. Fever (44-98%) 
@@ -37,7 +37,7 @@
     1. ~7% cardiac or heart failure alone
     1. Mortality rate appears to correlate with age and availability of medical resources (Ruan et al, Intensive Care Med, 2020)
 
-##Non-ICU Management Principles
+## Non-ICU Management Principles
   1. **Diagnostic studies:** 
     1. Labs & EKG: 
       1. On admission: CBC with differential, BMP, LFTs, LDH, CRP, D-dimer, Troponin / CPK, PTT / INR, Procalcitonin, baseline EKG
@@ -76,11 +76,11 @@
 *Can be considered on a case-by-case basis for highly reversible indications (e.g., flash pulmonary edema with rapid resolution). 
       1. Similar to many U.S. medical centers, our current default is to avoid HFNC in DNI patients and to use NRB, although exceptions can be considered on a case-by-case basis. 
 
-##Chest Imaging and Point of Care Lung Ultrasound
+## Chest Imaging and Point of Care Lung Ultrasound
 
   1. This section is in progress
 
-##Triage to ICU
+## Triage to ICU
 
   1. **Consult the ICU triage team EARLY for:** 
     1. Provider concern
@@ -96,7 +96,7 @@
     1. Need for intensive nursing care or frequent laboratory draws requiring arterial line.
     1. Severe comorbid illness / high risk for deterioration.
 
-##Transfer Process 
+## Transfer Process 
 
   1. **Additional details in Strict Isolation Procedures Manual.**
   1. **Floor / ED to ICU:**
@@ -114,9 +114,9 @@
     1. Patient travels in wheelchair 
     1. Security facilitates the shortest and fastest transfer route, walks 6 ft away from patient and providers, not required to wear PPE
     1. Patient is escorted directly into vehicle; contact care management if patient does not have access to a personal vehicle
-#Chapter 2: Respiratory Support for COVID-19 Patients
+# Chapter 2: Respiratory Support for COVID-19 Patients
 
-##Respiratory Failure and ARDS 
+## Respiratory Failure and ARDS 
 
   1. **Pathophysiology:** 
     1. Histology shows bilateral diffuse alveolar damage with cellular fibromyxoid exudates, desquamation of pneumocytes, pulmonary edema, and hyaline membrane formation (Xu et al., Lancet Respir Med, 2020)
@@ -126,7 +126,7 @@
     1. From onset of symptoms, median time to: 
       1. Development of ARDS:       1. Mechanical ventilation: 10.5-14.5 days (Huang et al., Lancet, 2020; Zhou et al., Lancet, 2020)
 
-##Management of Hypoxemia
+## Management of Hypoxemia
 
   1. **Supplemental Oxygen:**
     1. Humidified nasal cannula (NC) 1 to 6 LPM for target SpO2 92-96%
@@ -164,7 +164,7 @@ If HFNC or NIPPV used
       1. There is a COVID Airway Code Team with specific protocols for avoiding aerosolization.
       1. Many centers suggest Rapid Sequence Intubation when fully paralyzed, without ambu-bag (which generates aerosols) and highly experienced operators (e.g., anesthesia attending). 
     1. Other indications for intubation (tachypnea, work of breathing) apply 
- ##Initial Mechanical Ventilation
+ ## Initial Mechanical Ventilation
 
   1. **Intubations outside of ICU:**
     1. Should be attended by the Resource RT, who can facilitate early and appropriate ventilator settings with non-intensivists
@@ -186,7 +186,7 @@ If HFNC or NIPPV used
     1. Prioritize CXR and vent titration over procedures (such as central venous catheter placement) if possible. 
   1. **Within 30 minutes of intubation, obtain an ABG** **(preferred) or a VBG and adjust ventilation and oxygenation as needed**
 
-##PEEP and Mechanics
+## PEEP and Mechanics
 
   1. **If patients supported by Hamilton G5 Ventilator (most common), perform the following within 10 minutes of intubation:**
     1. Determine best PEEP following intubation while paralyzed using Pressure-Volume (PV) tool
@@ -201,7 +201,7 @@ If HFNC or NIPPV used
     1. Calculate P/F ratio from initial post-intubation ABG
   1. **Routine esophageal balloon use is not recommended**
 
-##Targeting Sedation for Ventilator Synchrony
+## Targeting Sedation for Ventilator Synchrony
 
   1. **Initially target** **RASS -2 to -3 (see table):**
     1. Maintain deep sedation immediately post-intubation while paralyzed (assume 60 minutes for Rocuronium, 10 minutes for succinylcholine)
@@ -216,7 +216,7 @@ If HFNC or NIPPV used
       1. If patient remains dyssynchronous despite deep sedation (RASS -5), initiate continuous paralytics (ensure BIS 40 to 60 prior to initiating and during paralysis)
 ![](kix.roexne69lgme)
 
-##General Management of Ventilated ARDS Patients
+## General Management of Ventilated ARDS Patients
 
   1. **Consider whether patient requires daily CXR:** 
     1. CXR clearly indicated for: 
@@ -231,7 +231,7 @@ If HFNC or NIPPV used
     1. If you need additional assistance managing ventilator choices, you can request a pulmonary phone/in-person consult (pager 11957) 
 
 
-##Managing Ventilation
+## Managing Ventilation
 
   1. **Follow ARDSnet ventilation where possible:** 
     1. Tidal volumes should be 4-6 cc/kg using IBW (see table above) to minimize volumes (and thus ventilator injury) 
@@ -249,7 +249,7 @@ If HFNC or NIPPV used
       1. If no improvement, initiate continuous paralysis
       1. If still no improvement, initiate prone ventilation (may improve V/Q matching and better ventilation)
 
-##Managing Oxygenation
+## Managing Oxygenation
 
   1. **Minimizing oxygen toxicity:** 
     1. PEEP and Fi02 drive oxygenation 
@@ -272,7 +272,7 @@ If HFNC or NIPPV used
     1. Avoiding hyperoxia: Extensive mammalian animal data demonstrates that hyperoxic injury occurs at an FiO2 ≥ 75% (at sea level) with the rate of injury increasing as FiO2 exceeds that threshold. In multiple mammalian models, an FiO2 of 100% for 48 to 72 hours is associated with nearly 100% mortality rate. In lung injury models, the time to death is markedly attenuated. In an effort to reduce the potential for hyperoxic injury, the threshold of FiO2 ≥ 75% triggers progressive intervention throughout this protocol: increased sedation, paralysis, proning and ECMO consultation. For a review of hyperoxic acute lung injury, see Kallet and Matthay, Respir Care, 2013. 
     1. Setting the lower oxygen limits: There is debate on the proper PaO2 goal, and our rationale relies on evidence for lack of benefit from conservative PaO2 goals in clinical trials (i.e., PaO2 > 55) and past association between lower PaO2 and cognitive impairment, although the evidence is certainly not definitive (mean PaO2 71 [IQR 67-80] for cognitively impaired survivors versus mean PaO2 86 [IQR, 70-98] in non-impaired survivors of ARDS (Mikkelsen et al., Am J Respir Crit Care Med. 2012). In the LOCO2 multi-center, randomized clinical trial, patients with ARDS were randomized to their PaO2 55-70, SpO2 88-92%; or PaO2 90-105, SpO2 >95%); the trial was stopped after enrollment of 205 patients due to futility and safety concerns (44% mortality in conservative oxygen group versus 30%; (Barrot et al., New Eng J Med, 2020).
 
-##Proning and Pulmonary Vasodilators
+## Proning and Pulmonary Vasodilators
 
   1. **Prone early:**
     1. We recommend early proning in severe ARDS without vasodilator trial (a depature from our typical practice for ARDS not due to COVID-19): <36 hours from ARDS onset, start discussion of prone when P:F < 150, prone within 12 hours of FiO2 > 75% (Guérin, N Engl J Med, 2013).   1. **Eligibility criteria for proning:**
@@ -304,7 +304,7 @@ If HFNC or NIPPV used
     1. If hypoxia (PaO2 < 55 with FiO2 > 75) persists after proning; then initiate continuous inhaled epoprostenol (see “COVID-19 Therapies and Clinical Trials” section)
     1. If FiO2 > 75% despite above, recommend consultation with ECMO team (see below)
  
-##ECMO consultation
+## ECMO consultation
 
   1. **Refractory Hypoxemia:**
     1. If despite PEEP optimization, paralysis, prone ventilation, optimizing volume status, pulmonary vasodilators (when available) the patient meets the following criteria, then consider ECMO consult (pager 35010)
@@ -325,14 +325,14 @@ If HFNC or NIPPV used
       1. No evidence of irreversible neurological injury
       1. Able to perform ADLs at baseline prior to illness
 
-#Chapter 3: COVID-19 Therapies and Clinical Trials
+# Chapter 3: COVID-19 Therapies and Clinical Trials
 
 
-##Note: 
+## Note: 
 
   1. The anti-viral and anti-inflammatory section below written by our critical care group is meant to provide a summary of the literature. This section does not represent the views or recommendations of the BWH Div. of Infectious Disease. The separate BWH Infectious Disease guidelines and ID consultation service take precedence over the information from the literature below.
 
-##Clinical trials 
+## Clinical trials 
 
   1. **Consult Infectious Disease for:**
     1. Patients with +COVID-19 PCR; and clinical history and any chest imaging suspicious for COVID-19 
@@ -343,7 +343,7 @@ If HFNC or NIPPV used
   1. **Monitor for drug-drug interactions:**
     1. Patients may arrive at the ICU already enrolled in a COVID19 clinical trial.  Verify that ICU treatment regimen does not add harmful drug interactions with study agents 
 
-##Antibiotic stewardship
+## Antibiotic stewardship
 
   1. **Antibiotic choice:**
     1. Antibiotics should reflect IDSA guidelines, presumed source, and MDRO risk. For a presumed pulmonary source: 
@@ -360,7 +360,7 @@ If HFNC or NIPPV used
       1. Clinical status is not deteriorating, cultures do not reveal pathogens at 48h, and procalcitonin and WBC are relatively stable from 0 to 48h
         1. Clinical judgement should prevail over any specific lab value
   1. **Rationale****:** Clinical reports indicate that rates of bacterial superinfection of COVID19 are low (10-20%), but when present increase mortality risk. Anecdotal reports suggest less MRSA superinfection than with influenza. Unnecessary antibiotics carry risks of fluid overload and drug-resistance, as well as the possibility that antibiotics may become a limited resource. (Zhou et al., Lancet, 2020; Yang et al., Lancet, 2020; Lippi and Plebani, Clinica Chimica Acta,  
-##Metered-dose inhalers (MDIs) vs. nebulizers
+## Metered-dose inhalers (MDIs) vs. nebulizers
 
   1. **N****on-intubated patients:** 
     1. For COVID-19 Confirmed or PUI, use MDI (inhalers), not nebulizers, due to the increased aerosol risk. 
@@ -370,7 +370,7 @@ If HFNC or NIPPV used
   1. **Intubated patients:** 
     1. The ventilator circuit is a closed system so nebulizers can be used when required (e.g., DuoNeb standing and albuterol PRN). 
   1. **Rationale****:** Nebulization may aerosolize viral particles and contribute to disease transmission.  COVID-19 clinical reports do not indicate wheeze as a common symptom, and not all patients require bronchodilators (Zhou et al, Lancet, 2020; Yang et al, Lancet, 2020; Guan et al, N Engl J Med, 
-##Airway Clearance  
+## Airway Clearance  
 
   1. **Management principles:**
     1. Reports from Wuhan and Italy indicate that some patients develop very thick secretions causing dangerous mucus plugging. However, nebulizers and airway clearance techniques may aerosolize secretions
@@ -388,7 +388,7 @@ If HFNC or NIPPV used
   1. **Airway clearance:**  
     1. Continue chest PT vests if patient uses at home (e.g. CF patients) with appropriate isolation precautions. Bronchiectasis patients may be considered on a case-by-case basis 
     1. Avoid oscillating positive expiratory pressure devices (Aerobika or Acapella) and cough assist (MIE) 
-##Inhaled Pulmonary Vasodilators
+## Inhaled Pulmonary Vasodilators
 
   1. **Indications for use:**
     1. Inhaled vasodilators should not be routinely used except in two circumstances
@@ -403,7 +403,7 @@ If HFNC or NIPPV used
         1. Strong consideration in refractory ARDS that does not respond to inhaled epoprostenol.  
           1. Limited in vitro data notes that iNO at high doses inhibits replication of SARS-CoV, but this has not been studied in vivo. (Akerstrom et al., J Virol,           1. iNO may be included in future trial protocols, such as early initiation in milder disease (non-intubated). 
 
-##Systemic Corticosteroids
+## Systemic Corticosteroids
 
   1. **Data on** **corticosteroids for COVID-19:**  
     1. Most studies show negative effects of corticosteroids on similar viruses
@@ -417,7 +417,7 @@ If HFNC or NIPPV used
         1. 50mg hydrocortisone IV Q6H until improvement in shock 
       1. Multipressor shock without history of chronic steroid use
         1. 50mg hydrocortisone IV Q6H until improvement in shock 
-##Anti-IL6 Agents (Tocilizumab, Siltuximab)  
+## Anti-IL6 Agents (Tocilizumab, Siltuximab)  
 
   1. **Pathophysiology:**
     1. IL-6 activates T cells and macrophages, among other cell types (see “Cytokine Activation Syndrome”
@@ -448,7 +448,7 @@ If HFNC or NIPPV used
         1. Thrombocytopenia 8%
         1. Hypotension 4% 
 
-##Hydroxychloroquine and Chloroquine
+## Hydroxychloroquine and Chloroquine
 
   1. **Pathophysiology:**
     1. Hydroxychloroquine is an anti-malarial 4-aminoquinoline shown to have in vitro (but not yet in-vivo) activity against diverse RNA viruses including SARS-CoV-1 (Touret et al, Antivir Res, 2020). 
@@ -474,7 +474,7 @@ If HFNC or NIPPV used
           1. Bone marrow suppression
         1. Contraindicated in epilepsy and porphyria
 
-##Angiotensin Converting Enzyme Inhibitors (ACE-I) and Angiotensin II Receptor Blockers (ARB)
+## Angiotensin Converting Enzyme Inhibitors (ACE-I) and Angiotensin II Receptor Blockers (ARB)
 
   1. **Pathophysiology:**
     1. The role of ACE-I/ARBs in the treatment or pathogenesis of renal failure in COVID-19 confirmed patients is paradoxical and inadequately understood at this time
@@ -488,13 +488,13 @@ If HFNC or NIPPV used
     1. For inpatients:
       1. We recommend strong consideration of discontinuing and avoiding ACE-I/ARBs in inpatients given the risk of kidney injury in severe illness (see Chapter 7, “Other Guidance”)
 
-##Non-steroidal anti-inflammatory drugs (NSAIDs)
+## Non-steroidal anti-inflammatory drugs (NSAIDs)
   1. **Pathophysiology:**
     1. SARS-CoV-2 binds to cells via ACE2. ACE2 is upregulated by ibuprofen in animal models, and this might contribute (see “Angiotensin Converting Enzyme Inhibitors (ACE-I) and Angiotensin II Receptor Blockers (ARB)” section)
   1. **Recommendation:**
     1. Consider acetaminophen instead of NSAIDs if possible; risk / benefit should be discussed with patients and treatment team 
       1. Reports from France indicate possible increase in mortality with ibuprofen in COVID-19 infection, but these reports have not been corroborated (Fang et al., Lancet Respir Med,       1. WHO clarified on 3/20/20 it does not recommend avoiding NSAIDs as of 3/18/20. (WHO, COVID-19 Guidelines, 2020)
-##Blood Products 
+## Blood Products 
   1. **Recommendation:**
     1. Restrictive transfusion strategy (Hct > 21, Hgb > 7) is recommended unless the patient is actively bleeding or there is concern for acute coronary syndrome 
       1. Parsimony is encouraged given limited supplies (blood drives are limited by social distancing)
@@ -508,9 +508,9 @@ If HFNC or NIPPV used
       1. Warfarin reversal: use 4 factor-PCC given longer effect and lower volume
       1. Platelets: goal > 30K unless actively bleeding
   1. **Rationale**: Volume overload is of particular concern in patients with COVID-19 so transfusions may be harmful. Randomized controlled trials of ICU patients have shown that a conservative transfusion strategy (Hgb 7) is associated with less pulmonary edema, fewer cardiac events, fewer transfusions (likely fewer transfusion reactions) and no evidence of harm compared to a liberal transfusion strategy. (Hebert et al, N Engl J Med, 
-#Chapter 4: Cardiac Complications of COVID-19
+# Chapter 4: Cardiac Complications of COVID-19
 
-##Acute Cardiac Injury
+## Acute Cardiac Injury
 
   1. **Definition:**
     1. Defined as troponin > 99th percentile, or abnormal EKG or echocardiographic findings
@@ -529,7 +529,7 @@ If HFNC or NIPPV used
         1. Acute coronary syndrome and demand ischemia
         1. Stress Cardiomyopathy (i.e. Takotsubo’s) 
 
-##Cardiovascular Testing 
+## Cardiovascular Testing 
 
   1. **Troponin:** 
     1. ICU patients: Check hsTrop daily and SCvO2 daily
@@ -557,7 +557,7 @@ If HFNC or NIPPV used
     1. Stress testing is likely not indicated in individuals with active COVID. 
     1. Any question of possible stress testing should be directed to cardiology
 
-##Arrhythmias
+## Arrhythmias
 
   1.      1. Case series report the occurrence of unspecified arrhythmias in 17% of hospitalized patients with COVID-19 (n=23 of 138), with higher rate in ICU patients (44%, n=16) compared to non-ICU patients (7%, n=7) (Zhou et al., Lancet, 2020).
     1. There are anecdotal reports of VT and VF as a late manifestation of COVID-19. No specific published findings were identified 
@@ -577,7 +577,7 @@ If HFNC or NIPPV used
         1. Cardiology consult (may represent evolving myocardial involvement)
         1. Amiodarone 150mg IV x 1 or lidocaine 100mg IV x 1 
 
-##Acute Coronary Syndromes
+## Acute Coronary Syndromes
 
   1. **Incidence:**
     1. There is no current available data on the incidence of ACS in COVID. However, we presume that due to the presence of ACE2 receptors on the endothelium, and the known increased risk of ACS in influenza that there is likely an increased incidence of ACS among COVID-19 patients.
@@ -601,7 +601,7 @@ If HFNC or NIPPV used
     1. As of the time of this writing, the cath lab will take COVID-19 patients, even if ventilated 
       1. If resources become constrained and door-to-balloon time is no longer adequate, cardiology may decide to use lytic medications for COVID-19 STEMI patients in lieu of PCI
 
-##Pericarditis and Myocarditis
+## Pericarditis and Myocarditis
 
   1. **Incidence:**
     1. Myocarditis and pericarditis may be potential manifestations of COVID-19 and source of Acute Cardiac Injury, based on case reports/case series (Ruan et al., Intensive Care Med, 2020; Zeng et al., Preprints, 2020; Hu et al., Eur Heart J, 2020) 
@@ -612,8 +612,8 @@ If HFNC or NIPPV used
   1. **Management:**
     1. Supportive for heart failure and direct viral treatments 
     1. The use of anti-inflammatory medications such as Colchicine and Ibuprofen should also be discussed with the cardiology consult team as this is evolving 
-#Chapter 5: Shock: Septic, Cardiogenic, and Cytokine Storm
-##Undifferentiated Shock in COVID
+# Chapter 5: Shock: Septic, Cardiogenic, and Cytokine Storm
+## Undifferentiated Shock in COVID
 
   1. **Definition:**
     1. Acute onset of new and sustained hypotension (MAP < 65 or SBP < 90) with signs of hypoperfusion requiring IVF or vasopressors to maintain adequate blood pressure
@@ -659,7 +659,7 @@ If HFNC or NIPPV used
         1. Insensible losses from fever
         1. Diarrhea/vomiting
 
-##Differentiating Shock
+## Differentiating Shock
     1. <ins>This video is a helpful tutorial</ins> 
 
 
@@ -672,7 +672,7 @@ If HFNC or NIPPV used
 | **Neurogenic**| ![](kix.9ufujbmevgom)| ![](kix.8621w0tbni0p)| ![](kix.gnkb62dixe42)**/normal**| ![](kix.sftyj69rrlro)| **Decreased HR**| 
 
 
-##Septic Shock and Secondary Infections 
+## Septic Shock and Secondary Infections 
 
   1. **Incidence:**
     1. The reported rates of sepsis and septic shock are not reported consistently in currently available case series
@@ -702,7 +702,7 @@ If HFNC or NIPPV used
   1. **Corticosteroids**
     1. See Chapter 3, “COVID-19 Therapies and Clinical Trials,” section on “Systemic Corticosteroids”
       1. Stress dose hydrocortisone should still be considered in patients on > 2 pressors 
-## Cardiogenic Shock
+##  Cardiogenic Shock
 
   1. **Incidence:** 
     1. Heart failure or cardiogenic shock was observed in 23% (n=44 of 191) of hospitalized patients in one case series
@@ -755,7 +755,7 @@ The following does not reflect the recommendation of the BWH ECMO and Cardiovasc
       1. Able to perform ADLs at baseline prior to illness
       1. Cannot have profound respiratory failure (defined as requiring prone ventilation at time of consult for MCS or having PaO2:FiO2 ratio < 150) (for MCS other than ECMO)
 
-## Cytokine Activation Syndrome
+##  Cytokine Activation Syndrome
 
   1. **Incidence:**
     1. A subgroup of patients with severe COVID-19 may have cytokine storm syndrome and secondary HLH (Mehta et al., Lancet, 2020). Patients who had cytokine storm developed rapid progression to ARDS, shock, and multiorgan failure (Chen et al., Lancet, 2020)
@@ -770,8 +770,8 @@ The following does not reflect the recommendation of the BWH ECMO and Cardiovasc
   1. **Management:** 
     1. If high suspicion, discuss with ID about the use of IVIG, steroids, cytokine blockade--particularly IL-6 pathway and perhaps IL-1 (see Chapter 3, “COVID-19 Therapies and Clinical Trials,” section on “Anti-IL6 Agents”). While steroids have been implicated with worse lung injury and outcomes, they may be beneficial in the hyperinflammatory state
 
-#Chapter 6: Thrombotic and Coagulation Manifestations
-##Thrombotic Disease
+# Chapter 6: Thrombotic and Coagulation Manifestations
+## Thrombotic Disease
 
   1. **Incidence:**
     1. Unclear incidence, though case reports suggest there may be increased venous thromboembolism (VTE) in COVID-19 patients (Xie et al., Radiol: Cardiothoracic Imaging, 2020)
@@ -792,7 +792,7 @@ The following does not reflect the recommendation of the BWH ECMO and Cardiovasc
   1. **Prognosis:**
     1. Higher D-dimer and FDP levels track with multi-organ dysfunction syndrome and poorer prognosis. (Wang et al, JAMA 2020, Zhou et al, Lancet 2020)
 
-##Disseminated Intravascular Coagulation (DIC)
+## Disseminated Intravascular Coagulation (DIC)
 
   1. **Incidence/pathophysiology:**
     1. Limited data: 16 of 183 hospitalized patients in Wuhan had DIC (Tang et al., J Thromb Haemost, 2020).
@@ -818,9 +818,9 @@ The following does not reflect the recommendation of the BWH ECMO and Cardiovasc
   1. **Prognosis:**
     1. DIC is associated with worse survival in COVID-19 patients. Out of 183 COVID-19 patients in Wuhan, 71% of non-survivors had DIC (ISTH score ≥ 5) compared to 0.6% of survivors (Tang et al., J Thromb Haemost, 2020)
 
-#Chapter 7: Renal Manifestations 
+# Chapter 7: Renal Manifestations 
 
-##Acute Kidney Injury
+## Acute Kidney Injury
 
   1. **Incidence:**
     1. Incidence of AKI in COVID-19 varies widely, but estimates range from 2.1% to 29% 
@@ -852,8 +852,8 @@ The following does not reflect the recommendation of the BWH ECMO and Cardiovasc
     1. Increased serum creatine, BUN, AKI, proteinuria, or hematuria are each independent risk factors for in-hospital death (Cheng et al., Nephrology, 2020) 
     1. In two other studies, non-survivors had higher BUN and creatinine and higher rates of AKI (Wang et al., JAMA, 2020; Yang et al., Lancet Respir Med, 2020) 
     1. Another study found that higher BUN and creatinine are associated with progression to ARDS, and higher BUN (though not creatinine) is associated with death (HR 1.06-1.20) (Wu et al., JAMA Int Med, 2020)
-    1. In comparison, AKI was found in 6.7% of SARS patients. AKI correlated with poor prognosis and 91.7% of patients with AKI died #Chapter 8: Other Guidance
-##Liver Disease
+    1. In comparison, AKI was found in 6.7% of SARS patients. AKI correlated with poor prognosis and 91.7% of patients with AKI died # Chapter 8: Other Guidance
+## Liver Disease
 
   1. **Incidence:**
     1. Up to 53% of patients had abnormal alanine aminotransferase (ALT) and aspartate aminotransferase (AST) (Zhang et al., Lancet Gastroenterol Hepatol, 2020)
@@ -877,7 +877,7 @@ The following does not reflect the recommendation of the BWH ECMO and Cardiovasc
     1. N-Acetyl-Cysteine is not recommended at this time due to significant volume load. Chinese studies refer to giving “liver protective drugs” in case of severe liver injury but we recommend against this for now
     1. There are no current guidelines for treatment of COVID-19 patients with underlying cirrhosis, but societies such as AASLD are working on registries of these patients
 
-##Considerations for Oncology Patients  
+## Considerations for Oncology Patients  
   1. **Data:**
     1. As of 3/16/2020, there is no available published data specific to COVID19 management in oncologic or immunosuppressed patients
   1. **Oncology Consultation/Coverage:** 
@@ -948,7 +948,7 @@ The following does not reflect the recommendation of the BWH ECMO and Cardiovasc
       1. Immune toxicities are usually treated with high dose steroids - risks and benefits must be weighed immediately with primary oncologist and ID consult teams if immune toxicity is suspected concurrent with COVID19 infection.
       1. <ins>BWH/DFCI iTox guidelines</ins> can be found on the DFCI intranet
 
-##Goals of Care
+## Goals of Care
 
   1. **Assess understanding and sign Health Care Proxy form on admission:**
     1. In conscious patients, review or sign Health Care Proxy form
@@ -958,7 +958,7 @@ The following does not reflect the recommendation of the BWH ECMO and Cardiovasc
     1. Tolerance for/ desire for invasive measures
     1. Understanding of disease process 
 
-##Management of Cardiac Arrest
+## Management of Cardiac Arrest
 
   1. **Early goals of care conversations are imperative**
     1.  The aim is to avoid unnecessary codes in patients without a reversible underlying condition
@@ -967,11 +967,11 @@ The following does not reflect the recommendation of the BWH ECMO and Cardiovasc
     1. Codes should be run with an automated compression device where available and minimal personnel
   1. **Full code guidelines are forthcoming and will be included here when available**
 
-##The Role of Palliative Care
+## The Role of Palliative Care
 
   1. This section in in progress
 
-##Ethical Considerations and Resource Allocation
+## Ethical Considerations and Resource Allocation
 
   1. This section is in progress
 
@@ -987,8 +987,8 @@ Currently we are looking for ongoing section editors, please email <ins>BWHCOVID
 (signed)
  
 BWH intensivists, fellows, respiratory therapists and pharmacists
-#
-#REFERENCES  
+# 
+# REFERENCES  
 
 1. Afshari A, Bastholm bille A, Allingstrup M. Aerosolized prostacyclins for acute respiratory distress syndrome (ARDS). Cochrane Database Syst Rev. 2017;7:CD007733. DOI: <ins>10.1002/14651858.CD007733.pub3</ins>.  
 1. Akerström S, Mousavi-jazi M, Klingström J, Leijon M, Lundkvist A, Mirazimi A. Nitric oxide inhibits the replication cycle of severe acute respiratory syndrome coronavirus. J Virol. 2005;79(3):1966-9. DOI: <ins>10.1128/JVI.79.3.1966-1969.2005</ins>
@@ -1055,8 +1055,8 @@ BWH intensivists, fellows, respiratory therapists and pharmacists
 1. Zhou F, Yu T, Du R, et al. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. March 2020. doi:10.1016/S0140-6736(20)30566-3
 1. Zhou  P, Yang X-L, Wang X-G, et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature. 2020;579(7798):270-273. doi:10.1038/s41586-020-2012-7
 1. Zuo M-Z, Huang Y-G, Ma W-H, et al. Expert Recommendations for Tracheal Intubation in Critically ill Patients with Novel Coronavirus Disease 2019. Chin Med Sci J. February 2020. 
-#
-#ADDENDUM: COVID ICU Bundle Checklist  
+# 
+# ADDENDUM: COVID ICU Bundle Checklist  
 
 Rationale: Use of a daily checklist ensures that routine quality measures are in place for each patient.  Review Bundle Checklist at the end of each patient’s presentation, every day.  <ins>Each section should be performed unless there is a contraindication or barrier to implementation</ins>. If a contraindication is present, discuss how barriers may be overcome. 
 
