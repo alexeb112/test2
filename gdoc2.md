@@ -1,28 +1,3 @@
-
-
-![](kix.643yrwxsbwlm)
-**Brigham and Women’s Hospital**
-**COVID-19 Critical Care Clinical Guidelines** 
-
-Updated: 3/19/2020
-
-**This document is a work in progress. We have much to learn.** 
-**This is updated daily with evolving information; do not print.**
-
-<ins>SCCM Guidelines</ins> **are being reviewed and incorporated but are not yet reflected in this document**
-
-**Please send suggestions:** 
-**Disclaimer:** This document is intended as a resource for clinicians caring for critically-ill COVID-19 patients, based on available evidence and recommendations of governing bodies. The recommendations do not replace clinical judgment or the need for individualized patient care plans. While we attempt to keep this document up-to-date, the literature on COVID-19 is rapidly evolving, and we suggest that practitioners search for the most up-to-date literature on any specific topic. These guidelines will also rapidly evolve as they are implemented into clinical practice and we receive feedback from practitioners. Finally, these guidelines were developed based on practice patterns and infrastructure at Brigham and Women’s Hospital in Boston, MA; local factors should be taken into account if utilized at other hospitals.
-#COVID-19 one page Quick Guides:
-
-<ins>COVID-19 Initial work-up QUICK GUIDE</ins>
-<ins>COVID-19 Respiratory Failure management QUICK GUIDE</ins>
-<ins>COVID-19 ICU care QUICK GUIDE</ins>
- 
-
-<ins>Table of Contents</ins>
-
-#
 #Chapter 1: Non-ICU Management, Triage, Transfers
 
 ##Clinical Course of COVID-19 
