@@ -663,13 +663,13 @@ If HFNC or NIPPV used
     1. <ins>This video is a helpful tutorial</ins> 
 
 
-| **Type of Shock**| **Cardiac Output**| **SVR**| **CVP/ Wedge**| **SCv02, MVO2**| **Other features**| 
-| --- |--- |--- |--- |--- |--- |
-| **Cardiogenic**| ![](kix.nsmubtbe1y22)| ![](kix.ft3t7i2ny53p)| ![](kix.dotvuzwx8e86)| ![](kix.kqmr8xa8g4uf)| | 
-| **Distributive (sepsis,cytokine, anaphylaxis)**| ![](kix.nu95jwqw6nni)| ![](kix.qht80zshkbbp)| ![](kix.6jze3ckfumbw)| ![](kix.yr6ljcsp26l0)| | 
-| **Obstructive**| ![](kix.2ra3aaluqa85)| ![](kix.nz66js2axakt)| ![](kix.9to17dj7vqjp)| ![](kix.7na8m03bf79i)| | 
-| **Hypovolemic**| ![](kix.vz7uf2aq3hcc)| ![](kix.umx7rupr5n9w)| ![](kix.mefung7pwm2m)| ![](kix.2nrdtu1l84az)| | 
-| **Neurogenic**| ![](kix.9ufujbmevgom)| ![](kix.8621w0tbni0p)| ![](kix.gnkb62dixe42)**/normal**| ![](kix.sftyj69rrlro)| **Decreased HR**| 
+| **Type of Shock** | **Cardiac Output** | **SVR** | **CVP/ Wedge** | **SCv02, MVO2** | **Other features** | 
+| --- | --- | --- | --- | --- | --- | 
+| **Cardiogenic** | ![](kix.nsmubtbe1y22) | ![](kix.ft3t7i2ny53p) | ![](kix.dotvuzwx8e86) | ![](kix.kqmr8xa8g4uf) |  | 
+| **Distributive (sepsis,cytokine, anaphylaxis)** | ![](kix.nu95jwqw6nni) | ![](kix.qht80zshkbbp) | ![](kix.6jze3ckfumbw) | ![](kix.yr6ljcsp26l0) |  | 
+| **Obstructive** | ![](kix.2ra3aaluqa85) | ![](kix.nz66js2axakt) | ![](kix.9to17dj7vqjp) | ![](kix.7na8m03bf79i) |  | 
+| **Hypovolemic** | ![](kix.vz7uf2aq3hcc) | ![](kix.umx7rupr5n9w) | ![](kix.mefung7pwm2m) | ![](kix.2nrdtu1l84az) |  | 
+| **Neurogenic** | ![](kix.9ufujbmevgom) | ![](kix.8621w0tbni0p) | ![](kix.gnkb62dixe42)**/normal** | ![](kix.sftyj69rrlro) | **Decreased HR** | 
 
 
 ## Septic Shock and Secondary Infections 

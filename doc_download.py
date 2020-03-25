@@ -20,7 +20,7 @@ def handle_paragraph(paragraph, is_toc = False):
   p_style = paragraph['paragraphStyle']
   needs_newline = False
   if 'namedStyleType' in p_style and p_style['namedStyleType'] in heading_map:
-    ret+= heading_map[p_style['namedStyleType']]
+    ret+= heading_map[p_style['namedStyleType']] + ' '
     needs_newline = True
   elif 'bullet' in paragraph:
     bullet = paragraph['bullet']
@@ -63,10 +63,10 @@ def handle_table(table):
     ret += '| '
     for cell in row['tableCells']:
       ret += handle_contents(cell['content']).strip()
-      ret+= '| '
+      ret+= ' | '
     ret += '\n'
     if head:
-      ret += ('| '+ '--- |'*num_cols) + '\n'
+      ret += ('| '+ '--- | '*num_cols) + '\n'
       head = False
 
   return ret
